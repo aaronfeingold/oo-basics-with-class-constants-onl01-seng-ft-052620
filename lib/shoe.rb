@@ -16,7 +16,7 @@ class Shoe
   end
   
   def self.brand
-    BRANDS.uiniq
+    BRANDS.uniq
   end 
 
    
